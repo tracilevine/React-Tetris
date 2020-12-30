@@ -20,7 +20,7 @@ max-width: 1000px;
 
 aside {
     width: 100%;
-    max-width: 200px;
+    maxwidth: 100px;
     display: block;
     padding: 0 20px;
 }

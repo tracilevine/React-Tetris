@@ -9,10 +9,10 @@ import StartButton from './StartButton'
 import { StyledTetrisWrapper, StyledTetris } from './styles/StyledTetris'
 
 //Custom Hooks
-import { usePlayer } from '../hooks/usePlayer'
-import { useStage  } from '../hooks/useStage'
-import { useInterval } from '../hooks/useInterval'
-import { useGameStatus } from '../hooks/useGameStatus'
+import { usePlayer } from '../Hooks/usePlayer'
+import { useStage  } from '../Hooks/useStage'
+import { useInterval } from '../Hooks/useInterval'
+import { useGameStatus } from '../Hooks/useGameStatus'
 
 
 const Tetris = () => {
